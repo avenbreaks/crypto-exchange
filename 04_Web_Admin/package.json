@@ -22,7 +22,7 @@
     "clipboard": "^1.7.1",
     "countup": "^1.8.2",
     "cropperjs": "^1.1.3",
-    "echarts": "^4.2.1",
+    "echarts": "^5.5.1",
     "html2canvas": "^0.5.0-beta4",
     "ip": "^1.1.5",
     "iview": "^2.13.1",
